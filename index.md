@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## General description of Perfetti sconosciuti project
 
-You can use the [editor on GitHub](https://github.com/ghasempouri1984/ps-ontology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project aims to represent the Perfetti Sconosciuti movie's knowledge graph and compose the character-oriented ontology. Moreover, the goal is to achieve a web page that makes ontological knowledge accessible to “Film Studies students”. In addition, determining the words frequently used in the movie in order to make literary criticism on themes of permanence, negativity, and change. At last, it aims to create a sentiment analysis of meaningful quotes from the movie.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bonus feature: Claim verification based on the story of the film. Will be useful to film study practice? Can we use claims from critics' reviews?
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Perfetti Sconosciuti (PS): Ontology
+
+Ontology is a defined model that organizes structured and unstructured information through entities, their properties, and the way they relate to one another. As we know, ontologies are machine-readable. This means that search engines are able to understand the content. While creating PS ontology, we aimed to make the cultural heritage we understood and acquired can be used and accessible to everyone. In addition, we want to make it useful for film analysis so we design this project also from a Film Studies point of view. The project offers a wide variety of features for viewing, manipulating, and creating ontologies in OWL for interconnected data.
 
 ```markdown
 Syntax highlighted code block
